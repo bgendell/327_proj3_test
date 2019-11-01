@@ -63,6 +63,7 @@ int main(int argc, char *argv[]){
 }
 
 
+
 int typicalrun(string &inputfile,string &startTag,string &endTag,string &outputfile){
 	vector<string> myStrings;
 	int iret = SUCCESS;
